@@ -1,5 +1,8 @@
 # Traffic Light Controller with MicroPython
 
+Youtube Link:
+https://www.youtube.com/shorts/b71Qk9Rgh4Y
+
 ## Overview
 This project is a simple traffic light controller implemented using MicroPython. It controls LEDs to simulate traffic signals for four different lanes.
 
